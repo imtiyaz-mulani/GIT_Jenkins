@@ -10,5 +10,11 @@ public class HelloWorld
     	System.out.println("Hello World");
     }
     
+    @Test
+    public void PrintHelloIndia()
+    {
+    	System.out.println("Hello India");
+    }
+    
     
 }
